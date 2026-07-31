@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
