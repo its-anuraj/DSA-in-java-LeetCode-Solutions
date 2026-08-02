@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
