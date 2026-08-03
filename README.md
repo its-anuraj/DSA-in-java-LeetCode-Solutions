@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
