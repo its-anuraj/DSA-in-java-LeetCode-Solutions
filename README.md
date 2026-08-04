@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1518-water-bottles](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
