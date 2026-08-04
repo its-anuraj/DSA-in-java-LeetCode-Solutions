@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1095-find-in-mountain-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -407,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0561-array-partition) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
