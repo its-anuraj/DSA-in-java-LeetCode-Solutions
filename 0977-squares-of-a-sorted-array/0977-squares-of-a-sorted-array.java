@@ -4,10 +4,18 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             nums[i] = nums[i] * nums[i];
-
         }
 
-        Arrays.sort(nums);
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < n - i; j++) {
+                if (nums[j] < nums[j - 1]) {
+                    int temp = nums[j];
+                    nums[j] = nums[j - 1];
+                    nums[j - 1] = temp;
+                }
+            }
+        }
         return nums;
+        
     }
 }
