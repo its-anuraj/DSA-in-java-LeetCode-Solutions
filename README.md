@@ -440,4 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
