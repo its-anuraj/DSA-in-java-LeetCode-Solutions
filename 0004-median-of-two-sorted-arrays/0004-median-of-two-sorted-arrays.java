@@ -33,10 +33,15 @@ class Solution {
 
         int l = ans.length;
 
+        int start = 0;
+        int end = l - 1;
+
+        int mid = start + (end - start) / 2;
+
         if (l % 2 == 0) {
-            return (ans[l / 2 -1]  + ans[l / 2]) / 2.0;
+            return (ans[mid] + ans[mid + 1]) / 2.0;
         } else {
-            return ans[l / 2];
+            return ans[mid];
         }
 
     }
