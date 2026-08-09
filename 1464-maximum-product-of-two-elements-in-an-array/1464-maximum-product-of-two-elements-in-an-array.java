@@ -7,17 +7,14 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             if (max < nums[i]) {
+                smax = max;
                 max = nums[i];
-                maxIndex = i;
 
-            }
-        }
-
-        for (int i = 0; i < n; i++) {
-            if (smax < nums[i] && i != maxIndex) {
+            } else if (smax < nums[i]) {
                 smax = nums[i];
             }
         }
+
         return (max - 1) * (smax - 1);
     }
 }
