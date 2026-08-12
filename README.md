@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
