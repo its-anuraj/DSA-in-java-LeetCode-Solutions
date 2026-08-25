@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
