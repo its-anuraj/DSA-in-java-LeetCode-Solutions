@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Quicksort
