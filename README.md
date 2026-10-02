@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1280-students-and-examinations](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
