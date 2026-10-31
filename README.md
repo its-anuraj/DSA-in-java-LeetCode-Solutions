@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0610-triangle-judgement](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1075-project-employees-i) |
